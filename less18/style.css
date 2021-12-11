@@ -1,0 +1,35 @@
+
+.mark{
+   display: flex;
+   justify-content: space-between;
+}
+.question:hover{
+border: 2px solid rgb(20, 1, 126);
+border-radius: 50%;
+}
+.heart:hover{
+   border: 2px solid rgb(153, 5, 5);
+   color: brown;
+   }
+   .plashka{
+      background-color: purple;
+      width: 40px;
+      height: 20px;
+      color: white;
+      position: absolute;
+      right: 40px;
+      border-radius: 25%;
+      display: flex;
+      justify-content: center;
+   }
+   .plashka:hover{
+      background-color: rgb(190, 255, 13);
+      color: rgb(0, 0, 0);
+   }
+   img{
+      width: 300px;
+      height: 200px;
+   }
+   .col:hover{
+border: 3px solid black;
+   }
