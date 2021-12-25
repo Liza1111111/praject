@@ -1,0 +1,82 @@
+
+img{
+   width: 200px;
+}
+body {background: rgb(7,255,0);
+   background: linear-gradient(90deg, rgba(7,255,0,1) 0%, rgba(125,230,160,1) 22%,
+   rgba(48,226,106,1) 31%, rgba(152,255,186,1) 37%, rgba(118,236,159,1) 43%, rgba(154,255,96,1) 61%, rgba(62,201,91,1) 100%);}
+
+   td{
+      text-align: center;
+      padding: 5px;
+      border: black;
+   }
+
+   h1{
+      text-align: center;
+   }
+   .tabl-l{
+      width: 300px;
+      padding: 50px;
+   }
+   .tabl-r{
+      width: 700px;
+   }
+   table{
+     
+   }
+   tr{
+      background: rgb(255,0,251);
+background: linear-gradient(90deg, rgba(255,0,251,1) 0%, rgba(230,125,125,1) 22%,
+ rgba(178,48,226,1) 31%, rgba(221,255,152,1) 37%, rgba(236,202,118,1) 43%, rgba(96,98,255,1) 61%, rgba(156,62,201,1) 100%);
+   }
+   .button{ 
+      width: 600px;
+      height: 30px;
+      padding: 5px;
+      border: 2px solid black;
+      background-color: rgb(255,224,0);
+      background: linear-gradient(90deg, rgba(255,224,0,1) 0%, rgba(230,125,125,1) 22%, rgba(226,48,48,1) 31%,
+       rgba(221,255,152,1) 37%, rgba(236,202,118,1) 43%, rgba(240,118,118,1) 61%, rgba(185,201,62,1) 100%);;
+   }
+   a { 
+      text-decoration: none; /* Отменяем подчеркивание у ссылки */
+     } 
+     li {
+      list-style-type: none; /* Убираем маркеры */
+     }
+   .button{
+   width: 30px;
+   height: 10px;
+   padding: auto;
+   margin: 20px;
+   }
+   tr{
+      height: 30px;
+   }
+   table {
+   
+   
+      border-spacing: 7px 11px; 
+     }
+    
+     .tabl-l table,  {
+        width: 350px;
+        background: rgb(255,83,0);
+        background: linear-gradient(90deg, rgba(255,83,0,1) 0%, rgba(165,230,125,1) 22%, rgba(226,196,48,1) 31%,
+         rgba(221,255,152,1) 37%, rgba(236,234,118,1) 43%, rgba(255,190,96,1) 61%, rgba(197,201,62,1) 100%);;
+         text-align: center;
+         margin: auto;
+         box-shadow: 10px 5px 5px rgb(16, 9, 9);
+        
+      
+      }
+      .tabl-r{
+         background: rgb(255,83,0);
+         background: linear-gradient(90deg, rgba(255,83,0,1) 0%, rgba(165,230,125,1) 22%, rgba(226,196,48,1) 31%,
+          rgba(221,255,152,1) 37%, rgba(236,234,118,1) 43%, rgba(255,190,96,1) 61%, rgba(197,201,62,1) 100%);;
+          text-align: center;
+          margin: auto;
+          box-shadow: 10px 5px 5px rgb(16, 9, 9);
+         
+      }
