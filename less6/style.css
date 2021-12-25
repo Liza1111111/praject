@@ -1,0 +1,70 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: 0;
+}
+
+.header, .main{
+   width: 600px;
+   height: 450px;
+   margin: 50px;
+}
+
+.red{
+   background-color: rgb(116, 193, 235);
+}
+.green{
+   background-color: rgb(164, 204, 104);
+}
+.blue{
+   background-color: rgb(84, 84, 225);
+}
+.block{
+   width: 600px;
+   height: 150px;
+}
+
+.head, .middle{
+   width: 600px;
+   height: 150px;
+}
+.yellow{
+   background-color: yellow;
+}
+.head-block{ 
+   width: 200px;
+   height: 150px;
+   float: left;
+}
+.vl1{
+   width: 300px;
+   height: 150px;
+   float: left;
+}
+.gray{
+   background-color: rgb(191, 0, 255);
+}
+.black{
+   background-color: rgb(112, 1, 1);
+}
+.head1{
+   width: 750px;
+   height: 250px;
+   background-color: yellowgreen;
+}
+.general{
+   width: 150px;
+   height: 150px;
+   float: left;
+   padding: 25px;
+   margin: 25px;
+}
+.pinc{
+   background-color: rgb(255, 113, 113);
+}
+.brown{
+   background-color: rgb(89, 0, 0);
+}
+.orange{
+   background-color: rgb(255, 38, 0);
+}
