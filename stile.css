@@ -1,0 +1,48 @@
+body{
+   background-color:  rgb(186,148,100);background: linear-gradient(90deg, rgba(186,148,100,1) 7%,rgba(184,175,111,1) 18%, rgba(201,175,168,1) 31%,rgba(226,171,171,1) 66%, rgba(207,157,204,1) 93%);
+}
+h1{
+   text-align: center;
+}
+p{
+   text-align: center;
+}
+.left{
+   margin: auto;
+   border: 2px solid black;
+   width: 1300px;;
+   height: 800px;
+
+}
+.card{
+   border: 2px solid black;
+   width: 200px;
+   height: 120px;
+   background-color:rgb(177,188,242);background: linear-gradient(90deg, rgba(177,188,242,1) 7%, rgba(138,176,214,1) 18%, rgba(195,157,226,1) 31%,rgba(156,184,241,1) 49%, rgba(171,188,226,1) 66%, rgba(151,182,227,1) 93%);;
+}
+.cart{
+   
+   display: flex;
+   flex-direction: row;}
+ .h4{
+   display: flex;
+   justify-content: center;
+}
+button{
+   width: 55px;
+   height: 20px;
+   background-color: darkgray;
+   border: 2px solid black;
+}
+a{
+   text-decoration: none;
+}
+.cards{
+   height: 100%;
+   width: 1200px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-between;
+   padding: 50px;
+}
