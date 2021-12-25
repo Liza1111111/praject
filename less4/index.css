@@ -1,0 +1,34 @@
+img
+{height: 150px;}
+body{background: rgb(189, 189, 189);
+   background: rgb(0,255,49);
+   background: rgb(121,136,124);
+   background: linear-gradient(90deg, rgba(121,136,124,1) 29%, rgba(24,38,51,1) 66%);}
+    table{height: 795px;
+   width: 1800px;}
+   h1{
+      text-align: center;
+   }
+   td{
+      text-align: center;
+      padding: 5px;
+      border: black;
+   }
+
+   td:hover{
+      background: rgb(255, 255, 255);
+      background: linear-gradient(304deg, rgba(2,0,36,1) 0%, rgba(218,185,70,1) 0%, 
+      rgba(103,132,150,1) 36%, rgba(165,123,171,1) 53%, rgba(162,120,177,1) 56%, rgba(103,132,150,1) 71%, rgba(0,212,255,1) 100%);
+
+   }
+   table{
+      background: none;
+      color: rgb(255, 255, 255);
+   }
+   h1:hover{
+      background: rgb(2,0,36);
+      background: linear-gradient(304deg, rgba(2,0,36,1) 0%, rgba(218,185,70,1) 0%, rgba(235,0,0,1) 26%, 
+                 rgba(255,62,62,1) 39%, rgba(255,113,0,1) 49%,
+                 rgba(255,62,62,1) 55%, rgba(255,252,101,1) 66%, rgba(255,223,179,1) 71%, rgba(255,130,0,1) 87%,
+                 rgba(255,247,104,1) 96%, rgba(255,0,0,1) 100%);
+   }
